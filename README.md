@@ -1,6 +1,6 @@
-#Script battle
+# Script battle
 
-###The concept
+### The concept
 
 You play games against all other players. Each player is represented as a js file. Each game will have a set amount of rounds. In each round your js file will have to choose to share or steal from your opponent.
 
@@ -16,7 +16,7 @@ There's also 4 preconfigured scripts that will join the competition.
 - Clown: Chooses randomly
 
 
-###How to play
+### How to play
 
 1. Make a js file in the players folder, give it a name to represent yourself. Use PascalCasing
 2. It needs an exported turn function that has 1 parameter, this is the history of your matches
